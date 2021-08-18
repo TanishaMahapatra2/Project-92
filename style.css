@@ -1,0 +1,95 @@
+body {
+    background-image: url("https://cutewallpaper.org/21/free-gradient-background-images/Best-Gradient-Background-Stock-Videos-and-Royalty-Free-.jpg");
+background-repeat:no-repeat;
+background-size:100%;
+}
+
+.div1,.div2
+{
+background-color:rgb(136, 255, 0);
+}
+
+#login
+{
+color:rgb(58, 36, 204);
+width:200px;
+height:40px;
+font-size:15px;
+background-color: turquoise;
+border-style: ridge;
+border-width:3px;
+border-color:rgb(141, 140, 153);
+}
+
+#player1_id, #player2_id
+{
+    width:900px;
+    height:60px;
+}
+
+.div1,.div2
+{
+width:93%;
+height:40%;
+border-radius:10px;
+}
+
+h1
+{
+    color:gold;
+}
+
+#output
+{
+    background: white;
+border-radius: 10px;
+border-top: 10px solid #040346;
+padding: 10px;
+float: none;
+text-align: left;
+width:900px;
+}
+
+#answer,#question
+{
+    color:rgb(96, 2, 184);
+}
+
+#button_send
+{
+    background-color:rgb(166, 75, 226);
+    color:rgb(255, 0, 85);
+    width:35px;
+    height:35px;
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+    color:chartreuse;
+}
+
+#player1_score , #player2_score
+{
+    font-size:30px;
+    color:rgb(114, 230, 224);
+}
+
+#number1, #number2
+{
+    border-width:5px;
+  border-top-color:plum;
+  border-right-color:powderblue;
+  border-left-color:palevioletred;
+  border-bottom-color:rgb(140, 127, 211);
+  border-style:solid;
+  height:45px;
+  width:900px;
+  }
+
+
+
+
+        
+        

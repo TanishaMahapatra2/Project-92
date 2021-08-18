@@ -1,0 +1,36 @@
+<html>
+<head>
+	<title>Math Quiz </title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<h2 id="player1_name"> </h2>
+		<span id="player1_score"> </span> 
+		<br>
+	<h2 id="player2_name"> </h2>
+		 <span id="player2_score"> </span>   
+	<div class="container">
+	<center>
+	<h1> Math Quiz </h1>
+	<h2 id="question"> Question Turn: <span id="player_question"></span> </h2>
+	<h2 id="answer"> Answer Turn: <span id="player_answer"></span></h2>
+	<div id="output"></div>
+    <br>
+    <br>
+    	
+    <input id="number1" placeholder="Type the first number here " type="number" class="form-control">
+    <br>
+    <br>
+    <input id="number2" placeholder="Type the second number here" type="number" class="form-control">
+	<br>
+	<br>
+	<button type="button" onclick="send()" id="button_send" style="width:40%"> Send </button>
+</center>
+</div>
+<script src="game_page_2.js"></script>
+</body>
+</html>
